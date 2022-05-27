@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Burak KORKMAZ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=burak-korkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="burak-korkmaz" /> </p>
+
 - 🌱 I’m currently learning **Clarusway**
 
 - 📫 How to reach me **3urakkorkmaz44@gmail.com**
@@ -8,8 +10,9 @@
 - ⚡ Fun fact **I think I am Funny!**
 
 <h3 align="left">Connect with me:</h3>
-
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=burak-korkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="burak-korkmaz" /> </p>
+<p align= "left">
+<a href="https://www.linkedin.com/in/burak-korkmaz-029a4622b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+</p>
 
 
 
