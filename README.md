@@ -31,3 +31,6 @@
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-korkmaz&show_icons=true&locale=tr&layout=compact" alt="burak- korkmaz" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=burak-korkmaz&show_icons=true&locale=en" alt ="burak-korkmaz" /></p>
