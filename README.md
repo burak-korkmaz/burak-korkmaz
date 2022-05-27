@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-korkmaz&show_icons=true&locale=tr&layout=compact" alt="burak- korkmaz" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=burak-korkmaz&show_icons=true&locale=en" alt ="burak-korkmaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-korkmaz&" alt= "burak-korkmaz" /></p>
