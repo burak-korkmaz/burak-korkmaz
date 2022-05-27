@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/burak-korkmaz-029a4622b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
-<a href="https://github.com/burak-korkmaz" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=FatihG34" alt="visitor counter"/>
+<a href="https://github.com/burak-korkmaz" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="20"/></a> <img src="https://komarev.com/ghpvc/?username=FatihG34" alt="visitor counter"/>
 
 - 🌱 I’m currently learning **Clarusway**
 
