@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak KORKMAZ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=burak-korkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="burak-korkmaz" /> </p>
-
 - 🌱 I’m currently learning **Clarusway**
 
 - 📫 How to reach me **3urakkorkmaz44@gmail.com**
@@ -10,17 +8,15 @@
 - ⚡ Fun fact **I think I am Funny!**
 
 <h3 align="left">Connect with me:</h3>
-<p align= "left">
-<a href="https://linkedin.com/in/burak-korkmaz-029a4622b" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-korkmaz-029a4622b" height="30" width="40" / ></a>
-<a href="https://fb.com/burak korkmaz" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- jeneratör/master/src/images/icons/Social/facebook.svg" alt="burak korkmaz" height="30" width="40" /></a>
-<a href="https://instagram.com/3ura.k" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt="3ura.k" height="30" width="40" /></a>
-</p>
+
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=burak-korkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="burak-korkmaz" /> </p>
+
 
 
  ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="tepki" width=" 50"/> </a>
 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
