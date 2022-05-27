@@ -35,7 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt ="linux"width="40" height="40"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/>   
-<img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </a> 
 
 <a href="https ://reactjs.org/" target="_blank" rel="noreferrer"> 
