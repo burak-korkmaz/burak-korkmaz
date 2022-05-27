@@ -9,12 +9,13 @@
 
 - ⚡ Fun fact **I think I am Funny!**
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align= "left">
 <a href="https://linkedin.com/in/burak-korkmaz-029a4622b" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-korkmaz-029a4622b" height="30" width="40" / ></a>
 <a href="https://fb.com/burak korkmaz" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- jeneratör/master/src/images/icons/Social/facebook.svg" alt="burak korkmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/3ura.k" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt="3ura.k" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=burak-korkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="burak-korkmaz" /> </p>
 
 
  ## 🚀 Skills
